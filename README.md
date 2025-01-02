@@ -61,3 +61,5 @@ Check out my portfolio for a glimpse of my projects and skills: [Portfolio Link]
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alimbdit&" alt="alimbdit" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alimbdit&show_icons=true&locale=en&layout=compact" alt="alimbdit" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alimbdit" alt="alimbdit" /></a></p>
+
+<p>Feel free to explore my repositories and don't hesitate to reach out for collaboration or discussions. Happy coding! 🚀</p>
