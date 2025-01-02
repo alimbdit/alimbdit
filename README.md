@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Alim</h1>
 
-<p align="center">🚀 Welcome to my GitHub! I'm a passionate and skilled full-stack web developer with expertise in creating robust and scalable web applications. My goal is to leverage cutting-edge technologies to deliver seamless user experiences. 🚀</p>
+<h3 align="center">🚀 Welcome to my GitHub! I'm a passionate and skilled full-stack web developer with expertise in creating robust and scalable web applications. My goal is to leverage cutting-edge technologies to deliver seamless user experiences. 🚀</h3>
 
 <!--
 - 🔭 I’m currently working on ---
