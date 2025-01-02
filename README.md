@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Alim</h1>
 
-<p align="center">🚀 Welcome to my GitHub! I'm a passionate and skilled full-stack web developer with expertise in creating robust and scalable web applications. My goal is to leverage cutting-edge technologies to deliver seamless user experiences.🚀</p>
+<p align="center">🚀 Welcome to my GitHub! I'm a passionate and skilled full-stack web developer with expertise in creating robust and scalable web applications. My goal is to leverage cutting-edge technologies to deliver seamless user experiences. 🚀</p>
 
 <!--
 - 🔭 I’m currently working on ---
@@ -56,10 +56,11 @@ Check out my portfolio for a glimpse of my projects and skills: [Portfolio Link]
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/alimbdit" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><a target="_blank" href="https://www.linkedin.com/in/alimbdit" style="display: inline-block;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nishat-tasnim00/" height="30" width="40" /></a>
+<p>Feel free to explore my repositories and don't hesitate to reach out for collaboration or discussions. Happy coding! 🚀</p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alimbdit&show_icons=true&locale=en" alt="alimbdit" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alimbdit&" alt="alimbdit" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alimbdit&show_icons=true&locale=en&layout=compact" alt="alimbdit" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alimbdit" alt="alimbdit" /></a></p>
 
-<p>Feel free to explore my repositories and don't hesitate to reach out for collaboration or discussions. Happy coding! 🚀</p>
+
