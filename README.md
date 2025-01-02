@@ -61,7 +61,7 @@ Check out my portfolio for a glimpse of my projects and skills: [Portfolio Link]
    <a href="https://www.hackerrank.com/profile/alim_cse_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/tasnim_nt00" height="30" width="40" /></a>
 <p>Feel free to explore my repositories and don't hesitate to reach out for collaboration or discussions. Happy coding! 🚀</p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alimbdit&show_icons=true&locale=en" alt="alimbdit" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alimbdit&" alt="alimbdit" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alimbdit&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" alt="alimbdit" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alimbdit&show_icons=true&locale=en&layout=compact" alt="alimbdit" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alimbdit" alt="alimbdit" /></a></p>
 
