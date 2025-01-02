@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Alim</h1>
 
 <p align="center">🚀 Welcome to my GitHub! I'm a passionate and skilled full-stack web developer with expertise in creating robust and scalable web applications. My goal is to leverage cutting-edge technologies to deliver seamless user experiences.</p>
-<h2>🚀 Languages and Tools I Use</h2>
+
 <!--
 - 🔭 I’m currently working on ---
 -->
@@ -30,6 +30,9 @@ Check out my portfolio for a glimpse of my projects and skills: [Portfolio Link]
    - GitHub Repository: [Link](https://github.com/NishatTasnim00/ToDo-List-Client)
      
 -->
+
+<h2>🚀 Languages and Tools I Use</h2>
+
 
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
