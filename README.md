@@ -4,10 +4,10 @@
 
 <!--
 - 🔭 I’m currently working on ---
+<-👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ... 
 -->
 - 🌱 I’m currently learning **NextJs, Redux**
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... -->
 - 💬 Ask me about **React, Javascript, ExpressJs**
 - 📫 How to reach me: **alimbdit@gmail.com**
 - 😄 Pronouns: **He/Him**
